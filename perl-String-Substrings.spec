@@ -8,7 +8,7 @@ Summary:	String::Substrings - module to extract some/all substrings from a strin
 Summary(pl):	String::Substrings - modu³ do wyci±gania czê¶ci/wszystkich podci±gów z ci±gu
 Name:		perl-String-Substrings
 Version:	0.02
-Release:	2
+Release:	3
 License:	GPL/Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
