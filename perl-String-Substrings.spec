@@ -10,7 +10,8 @@ Summary(pl):	String::Substrings - modu³ do wyci±gania czê¶ci/wszystkich podci±gó
 Name:		perl-String-Substrings
 Version:	0.02
 Release:	3
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	f733d88cd3f8349946832fb640984842
