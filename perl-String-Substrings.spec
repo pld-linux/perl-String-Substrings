@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	String
-%define	pnam	Substrings
+%define		pdir	String
+%define		pnam	Substrings
 Summary:	String::Substrings - module to extract some/all substrings from a string
 Summary(pl):	String::Substrings - modu³ do wyci±gania czê¶ci/wszystkich podci±gów z ci±gu
 Name:		perl-String-Substrings
