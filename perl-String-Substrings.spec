@@ -9,7 +9,7 @@ Summary:	String::Substrings - module to extract some/all substrings from a strin
 Summary(pl.UTF-8):	String::Substrings - moduł do wyciągania części/wszystkich podciągów z ciągu
 Name:		perl-String-Substrings
 Version:	0.02
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
